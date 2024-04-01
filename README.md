@@ -1,4 +1,4 @@
-📫 yunjeongiragu@gmail.com
+📫 yunjeongiya@gmail.com
 
 🛜 Open to network: [Yunjeong's LinkedIn](https://www.linkedin.com/in/yunjeongiya/)
 
