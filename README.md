@@ -7,4 +7,15 @@
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uu0078)](https://solved.ac/uu0078/)-->
 [![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yunjeongiya.notion.site/portfolio)
-</div>
+
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yunjeongiya&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/yunjeongiya?pet-id=700022640790059510"
+    width="600"
+    height="200"
+  />
+</a>
+  
