@@ -13,9 +13,8 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yunjeongiya&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/yunjeongiya?pet-id=700022640790059510"
+    src="https://render.gitanimals.org/lines/yunjeongiya?pet-id=700025156877520900"
     width="600"
-    height="200"
+    height="120"
   />
 </a>
-  
