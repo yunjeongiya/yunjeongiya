@@ -6,5 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjeongiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uu0078)](https://solved.ac/uu0078/)-->
-
+[![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yunjeongiya.notion.site/portfolio)
 </div>
